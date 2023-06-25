@@ -1,0 +1,3 @@
+docker-compose.yaml
+docker/calibre-web/books
+docker/calibre-web/config
